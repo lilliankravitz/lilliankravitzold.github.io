@@ -507,7 +507,7 @@ h6:hover{
 
 .MePic{
   height: 7vh;
-  width: 42%;
+  width: 35%;
 }
 .Me h4{
   font-family: 'Amatic SC';
@@ -517,12 +517,12 @@ h6:hover{
   text-align: right;
   float: right;
   height: 100px;
-  width: 58%;
+  width: 65%;
   padding-right: 40px;
   padding-top: 50px;
 }
 .Me p{
-  width: 58%;
+  width: 65%;
   font-family: 'Dosis';
   font-size: 30px;
   font-weight: bold;
