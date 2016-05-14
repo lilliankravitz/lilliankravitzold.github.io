@@ -84,28 +84,28 @@ body {
 
 .icons{
   width: 100%;
-  height: 150vh;
+  height: 160vh;
   background: -webkit-linear-gradient(rgba(202,202,230,0.2),rgba(51,51,225,0.3));
 
 }
 
 @media (max-width: 950px) {
   .icons {
-    height: 320vh;
+    height: 330vh;
     width: 100%;
   }
 }
 
 @media (max-width: 375px) {
   .icons {
-    height: 370vh;
+    height: 380vh;
     width: 100%;
   }
 }
 
 @media (max-width: 320px) {
   .icons {
-    height: 460vh;
+    height: 470vh;
     width: 100%;
   }
 }
@@ -834,7 +834,7 @@ and (device-height: 640px) and (-webkit-device-pixel-ratio: 3){
 
 .contact{
   width: 100%;
-  height: 25vh;
+  height: 30vh;
   background-image: url("https://images.unsplash.com/photo-1447703693928-9cd89c8d3ac5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=a8cba9e0f07c6ac9086aecf4dfa1a860");
 }
 
@@ -851,13 +851,13 @@ and (device-height: 640px) and (-webkit-device-pixel-ratio: 3){
 
 @media (max-width: 400px) {
   .contact {
-    height: 30vh;
+    height: 35vh;
   }
 }
 
 @media (max-width: 330px) {
   .contact {
-    height: 50vh;
+    height: 55vh;
   }
 }
 
