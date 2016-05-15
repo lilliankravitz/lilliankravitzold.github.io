@@ -56,7 +56,7 @@ body {
 @media (max-width: 600px) {
   .front h1{
     font-size: 55px;
-    margin top: 10%;
+    margin top: 20%;
     padding-top: 0px;
   }
 }
